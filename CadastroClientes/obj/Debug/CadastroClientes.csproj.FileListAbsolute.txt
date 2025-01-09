@@ -1,0 +1,194 @@
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\MySql.Data.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\Google.Protobuf.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\ZstdNet.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\System.Buffers.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+F:\Grim\CadastroClientes\CadastroClientes\bin\Debug\MySql.Data.xml
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+F:\Grim\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.CopyComplete
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\Google.Protobuf.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\ZstdNet.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\System.Buffers.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\MySql.Data.xml
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\Cadastro.6FF3DC99.Up2Date
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.pdb
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\Google.Protobuf.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\ZstdNet.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\System.Buffers.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\bin\Debug\MySql.Data.xml
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\Cadastro.6FF3DC99.Up2Date
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\LuísFernandoLopesGri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta\CadastroClientes\obj\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\MySql.Data.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\Google.Protobuf.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\ZstdNet.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\System.Buffers.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\MySql.Data.xml
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.CopyComplete
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.pdb
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\Google.Protobuf.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\ZstdNet.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\System.Buffers.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\bin\Debug\MySql.Data.xml
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\Cadastro.6FF3DC99.Up2Date
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\lfgri\OneDrive - ifsp.edu.br\Documentos\Disciplinas\LP1-2024\Projetos\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes_TQuinta_atualizado\CadastroClientes\obj\Debug\CadastroClientes.Frm_Consulta.resources
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\CadastroClientes.pdb
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\MySql.Data.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\Google.Protobuf.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\ZstdNet.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\System.Buffers.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\MySql.Data.xml
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.Frm_Consulta.resources
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.CopyComplete
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.exe
+F:\Grim\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.pdb
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\Google.Protobuf.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\ZstdNet.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\System.Buffers.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\bin\Debug\MySql.Data.xml
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.Frm_Consulta.resources
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\Cadastro.6FF3DC99.Up2Date
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\Pedrao\Downloads\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes_TQuinta_atualizado_consultaOnlyForm\CadastroClientes\obj\Debug\CadastroClientes.pdb
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\Google.Protobuf.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\ZstdNet.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\System.Buffers.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\bin\Debug\MySql.Data.xml
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.csproj.AssemblyReference.cache
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.exe.config
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.Frm_CadastroCliente.resources
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.Frm_Consulta.resources
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\Cadastro.6FF3DC99.Up2Date
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\Pedrao\Desktop\CadastroClientesPedroMatosPC3032582\CadastroClientes\obj\Debug\CadastroClientes.pdb

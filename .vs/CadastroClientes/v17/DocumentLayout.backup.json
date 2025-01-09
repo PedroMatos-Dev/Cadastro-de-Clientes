@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\cadastroclientes\\frm_cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\frm_cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\cadastroclientes\\cls_validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\cls_validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\cadastroclientes\\frm_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\frm_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\cadastroclientes\\frm_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\frm_consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\cadastroclientes\\verificaforcasenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\verificaforcasenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|c:\\users\\pedrao\\desktop\\cadastroclientespedromatospc3032582\\cadastroclientes\\frm_cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89A4DB3E-EEF4-4E59-A60F-174B6944EB0B}|CadastroClientes\\CadastroClientes.csproj|solutionrelative:cadastroclientes\\frm_cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerificaForcaSenha.cs",
+              "DocumentMoniker": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\VerificaForcaSenha.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\VerificaForcaSenha.cs",
+              "ToolTip": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\VerificaForcaSenha.cs",
+              "RelativeToolTip": "CadastroClientes\\VerificaForcaSenha.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA8wEUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:03:40.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_Consulta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_Consulta.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Frm_Consulta.cs",
+              "ToolTip": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_Consulta.cs [Design]",
+              "RelativeToolTip": "CadastroClientes\\Frm_Consulta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:34:09.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_Consulta.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Frm_Consulta.cs",
+              "ToolTip": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_Consulta.cs",
+              "RelativeToolTip": "CadastroClientes\\Frm_Consulta.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:34:43.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cls_Validacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Cls_Validacoes.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Cls_Validacoes.cs",
+              "ToolTip": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Cls_Validacoes.cs",
+              "RelativeToolTip": "CadastroClientes\\Cls_Validacoes.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:49:22.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_CadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_CadastroCliente.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Frm_CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_CadastroCliente.cs",
+              "RelativeToolTip": "CadastroClientes\\Frm_CadastroCliente.cs",
+              "ViewState": "AgIAAIQCAAAAAAAAAAA0wGEBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:05:04.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_CadastroCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_CadastroCliente.cs",
+              "RelativeDocumentMoniker": "CadastroClientes\\Frm_CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\Pedrao\\Desktop\\CadastroClientesPedroMatosPC3032582\\CadastroClientes\\Frm_CadastroCliente.cs [Design]",
+              "RelativeToolTip": "CadastroClientes\\Frm_CadastroCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:05:04.724Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
