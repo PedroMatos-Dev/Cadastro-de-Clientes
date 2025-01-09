@@ -172,6 +172,7 @@ namespace CadastroClientes
             Txt_Linkedin.ReadOnly = false;
             Btn_CarregarImagem.Enabled = true;
             Btn_LimparImagem.Enabled = true;
+            Txt_MostrarForcaSenha.Visible = true;
 
         }
 
@@ -201,6 +202,7 @@ namespace CadastroClientes
             Txt_Linkedin.ReadOnly = true;
             Btn_CarregarImagem.Enabled = false;
             Btn_LimparImagem.Enabled = false;
+            Txt_MostrarForcaSenha.Visible = false;
         }
 
         private void Frm_CadastroCliente_Load(object sender, EventArgs e)
@@ -248,7 +250,7 @@ namespace CadastroClientes
             Cbo_Estado.SelectedIndex = -1;
             Txt_Codigo.Focus();
             Pcb_Foto.Image = null;
-
+            
         }
 
         private void Btn_LimparImagem_Click(object sender, EventArgs e)
@@ -309,9 +311,14 @@ namespace CadastroClientes
             string facebookUrl = Txt_Facebook.Text;
             string twitterUrl = Txt_Twitter.Text;
             string linkedinUrl = Txt_Linkedin.Text;
-            string senha = Txt_Senha.Text;
 
             bool cpfValido = Cls_Validacoes.ValidaCPF(cpf);
+
+            //Método era usado para chamar a classe de validação de senha, onde retornava uma mensagem referete ao nivel da força!
+            //Método foi alterado para um simples label, no forms abaixo do campo senha, que, enquanto o usuario vai escrevendo a senha
+            //a label vai sendo alterada de acordo com o nivel da força!
+
+            /*string senha = Txt_Senha.Text;
 
             // Instancia a classe de verificação de força de senha
             ChecaForcaSenha checador = new ChecaForcaSenha();
@@ -374,7 +381,8 @@ namespace CadastroClientes
                                     MessageBoxButtons.OK,
                                     MessageBoxIcon.Error);
                     break;
-            }
+            }*/
+
 
             if (op == 0) // Inserção
             {
@@ -615,6 +623,7 @@ namespace CadastroClientes
         private void Btn_Cancelar_Click(object sender, EventArgs e)
         {
             Btn_Limpar.PerformClick();
+            Txt_Codigo.Enabled = Txt_Codigo_Phantom.Enabled = true;
             DesabilitaEdicao();
             EsconderDados();
         }
@@ -663,5 +672,42 @@ namespace CadastroClientes
 
         }
 
+        private void Txt_Senha_TextChanged(object sender, EventArgs e) {
+
+            string password = Txt_Senha.Text;
+
+            if (string.IsNullOrWhiteSpace(password)) {
+                Txt_MostrarForcaSenha.Text = "Campo obrigatório!";
+                return;
+            }
+
+            Txt_MostrarForcaSenha.Text = AvaliarForcaSenha(password);
+        }
+
+        private string AvaliarForcaSenha(string password) {
+
+            // Instancia a classe de verificação de força de senha
+            ChecaForcaSenha checador = new ChecaForcaSenha();
+            // Obtém a força da senha
+            ForcaDaSenha forca = checador.GetForcaDaSenha(password);
+
+            // Exibe a mensagem conforme a força da senha
+            switch (forca) {
+                case ForcaDaSenha.Nenhuma:
+                    return "Campo obrigatório!";
+                case ForcaDaSenha.Inaceitavel:
+                    return "Senha inaceitável!";
+                case ForcaDaSenha.Fraca:
+                    return "Senha fraca!";
+                case ForcaDaSenha.Aceitavel:
+                    return "Senha aceitável!";
+                case ForcaDaSenha.Forte:
+                    return "Senha forte!";
+                case ForcaDaSenha.Segura:
+                    return "Senha segura!";
+                default:
+                    return "Erro ao verificar a força da senha!";
+            }
+        }
     }
 }

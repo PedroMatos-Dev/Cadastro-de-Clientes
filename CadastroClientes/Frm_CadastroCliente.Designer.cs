@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.Grb_DadosPessoais = new System.Windows.Forms.GroupBox();
+            this.label18 = new System.Windows.Forms.Label();
+            this.Txt_Senha = new System.Windows.Forms.TextBox();
             this.Txt_Celular = new System.Windows.Forms.MaskedTextBox();
             this.Txt_CPF = new System.Windows.Forms.MaskedTextBox();
             this.Txt_Codigo_Phantom = new System.Windows.Forms.NumericUpDown();
@@ -82,8 +84,7 @@
             this.Btn_LimparImagem = new System.Windows.Forms.Button();
             this.Btn_CarregarImagem = new System.Windows.Forms.Button();
             this.Pcb_Foto = new System.Windows.Forms.PictureBox();
-            this.Txt_Senha = new System.Windows.Forms.TextBox();
-            this.label18 = new System.Windows.Forms.Label();
+            this.Txt_MostrarForcaSenha = new System.Windows.Forms.Label();
             this.Grb_DadosPessoais.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Txt_Codigo_Phantom)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Txt_Codigo)).BeginInit();
@@ -97,6 +98,7 @@
             // 
             // Grb_DadosPessoais
             // 
+            this.Grb_DadosPessoais.Controls.Add(this.Txt_MostrarForcaSenha);
             this.Grb_DadosPessoais.Controls.Add(this.label18);
             this.Grb_DadosPessoais.Controls.Add(this.Txt_Senha);
             this.Grb_DadosPessoais.Controls.Add(this.Txt_Celular);
@@ -119,6 +121,24 @@
             this.Grb_DadosPessoais.TabIndex = 0;
             this.Grb_DadosPessoais.TabStop = false;
             this.Grb_DadosPessoais.Text = "Dados Pessoais";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(263, 131);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(41, 13);
+            this.label18.TabIndex = 19;
+            this.label18.Text = "Senha:";
+            // 
+            // Txt_Senha
+            // 
+            this.Txt_Senha.Location = new System.Drawing.Point(311, 128);
+            this.Txt_Senha.Name = "Txt_Senha";
+            this.Txt_Senha.ReadOnly = true;
+            this.Txt_Senha.Size = new System.Drawing.Size(154, 20);
+            this.Txt_Senha.TabIndex = 18;
+            this.Txt_Senha.TextChanged += new System.EventHandler(this.Txt_Senha_TextChanged);
             // 
             // Txt_Celular
             // 
@@ -657,22 +677,14 @@
             this.Pcb_Foto.TabIndex = 31;
             this.Pcb_Foto.TabStop = false;
             // 
-            // Txt_Senha
+            // Txt_MostrarForcaSenha
             // 
-            this.Txt_Senha.Location = new System.Drawing.Point(311, 128);
-            this.Txt_Senha.Name = "Txt_Senha";
-            this.Txt_Senha.ReadOnly = true;
-            this.Txt_Senha.Size = new System.Drawing.Size(154, 20);
-            this.Txt_Senha.TabIndex = 18;
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(263, 131);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(41, 13);
-            this.label18.TabIndex = 19;
-            this.label18.Text = "Senha:";
+            this.Txt_MostrarForcaSenha.AutoSize = true;
+            this.Txt_MostrarForcaSenha.Location = new System.Drawing.Point(365, 151);
+            this.Txt_MostrarForcaSenha.Name = "Txt_MostrarForcaSenha";
+            this.Txt_MostrarForcaSenha.Size = new System.Drawing.Size(0, 13);
+            this.Txt_MostrarForcaSenha.TabIndex = 20;
+            this.Txt_MostrarForcaSenha.Visible = false;
             // 
             // Frm_CadastroCliente
             // 
@@ -770,6 +782,7 @@
         private System.Windows.Forms.MaskedTextBox Txt_Celular;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.TextBox Txt_Senha;
+        private System.Windows.Forms.Label Txt_MostrarForcaSenha;
     }
 }
 
